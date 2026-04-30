@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-一品居 高幡不動店 - メニュー生成スクリプト
+逸品居 高幡不動店 - メニュー生成スクリプト
 document/menu/ のデータから menu/ ページを生成する
 """
 
@@ -366,7 +366,7 @@ def build_category_page(cat, dishes, header_lines):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{cat['name']} - 一品居 高幡不動店</title>
+    <title>{cat['name']} - 逸品居 高幡不動店</title>
     <link rel="stylesheet" href="common.css">
 </head>
 <body>
@@ -415,7 +415,7 @@ def generate_menu_index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>メニュー - 一品居 高幡不動店</title>
+    <title>メニュー - 逸品居 高幡不動店</title>
     <link rel="stylesheet" href="common.css">
     <style>
         .menu-index-header {{
@@ -459,7 +459,7 @@ def generate_menu_index():
         <h1>メニュー</h1>
     </div>
     <div class="menu-index-header">
-        <h1>一品居 メニュー</h1>
+        <h1>逸品居 メニュー</h1>
         <p>IPPNKYO MENU</p>
     </div>
     <div class="cat-grid">

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-一品居 高幡不動店 - 食べ放題・コース・セット生成スクリプト
+逸品居 高幡不動店 - 食べ放題・コース・セット生成スクリプト
 document/buffet_and_set/ のデータから buffet/ ページを生成する
 """
 
@@ -486,7 +486,7 @@ def build_all_you_can_eat_page(data):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>食べ放題・飲み放題 - 一品居高幡不動店</title>
+    <title>食べ放題・飲み放題 - 逸品居高幡不動店</title>
     <link rel="stylesheet" href="common.css">
 </head>
 <body>
@@ -536,7 +536,7 @@ def build_course_page(data):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>逸品居お得コース - 一品居高幡不動店</title>
+    <title>逸品居お得コース - 逸品居高幡不動店</title>
     <link rel="stylesheet" href="common.css">
 </head>
 <body>
@@ -626,7 +626,7 @@ def build_drink_set_page(sections):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>お得な飲みセット - 一品居高幡不動店</title>
+    <title>お得な飲みセット - 逸品居高幡不動店</title>
     <link rel="stylesheet" href="common.css">
 </head>
 <body>
@@ -687,7 +687,7 @@ def build_set_meal_page(data):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>定食メニュー - 一品居高幡不動店</title>
+    <title>定食メニュー - 逸品居高幡不動店</title>
     <link rel="stylesheet" href="common.css">
 </head>
 <body>
@@ -735,7 +735,7 @@ def build_small_plate_page(data):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>小皿料理 - 一品居高幡不動店</title>
+    <title>小皿料理 - 逸品居高幡不動店</title>
     <link rel="stylesheet" href="common.css">
 </head>
 <body>
@@ -792,7 +792,7 @@ def generate_buffet_index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>セット・コース - 一品居高幡不動店</title>
+    <title>セット・コース - 逸品居高幡不動店</title>
     <link rel="stylesheet" href="common.css">
     <style>
         .index-header {{
