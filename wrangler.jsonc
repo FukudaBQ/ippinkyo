@@ -2,13 +2,16 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "black-fire-68a6",
   "compatibility_date": "2026-04-30",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
   "observability": {
     "enabled": true
   },
-  "assets": {
-    "directory": "."
+  "build": {
+    "command": "bash build.sh"
   },
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
+  "assets": {
+    "directory": "./public"
+  }
 }
