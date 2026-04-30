@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "black-fire-68a6",
+  "compatibility_date": "2026-04-30",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": ".",
+    "exclude": [
+      ".git",
+      ".github",
+      ".DS_Store",
+      "document",
+      "scripts",
+      "node_modules",
+      "wrangler.jsonc",
+      "README.md",
+      ".gitignore"
+    ]
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
