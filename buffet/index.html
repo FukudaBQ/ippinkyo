@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>セット・コース - 一品居高幡不動店</title>
+    <link rel="stylesheet" href="common.css">
+    <style>
+        .index-header {
+            text-align: center; padding: 40px 20px 30px;
+            background: #fff; border-bottom: 1px solid #eee;
+        }
+        .index-header h1 {
+            font-family: 'Noto Serif JP', serif;
+            font-size: 28px; font-weight: 700; margin-bottom: 6px; letter-spacing: 0.08em;
+        }
+        .index-header p { font-size: 13px; color: #999; letter-spacing: 0.15em; }
+        .cat-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 20px; padding: 30px 24px; max-width: 900px; margin: 0 auto;
+        }
+        .cat-card {
+            text-decoration: none; color: #333; background: #fff;
+            border-radius: 10px; overflow: hidden;
+            box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+            transition: transform 0.15s, box-shadow 0.15s;
+        }
+        .cat-card:hover { transform: translateY(-4px); box-shadow: 0 6px 20px rgba(0,0,0,0.10); }
+        .cat-card-img { width: 100%; aspect-ratio: 4/3; position: relative; overflow: hidden; }
+        .cat-card-img img { width: 100%; height: 100%; object-fit: cover; }
+        .cat-card-ph {
+            width: 100%; height: 100%; display: flex; flex-direction: column;
+            align-items: center; justify-content: center; color: #fff; font-size: 14px;
+        }
+        .cat-card-body { padding: 14px; }
+        .cat-card-name { font-size: 15px; font-weight: 700; }
+        @media (max-width: 768px) {
+            .cat-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; padding: 20px 16px; }
+            .index-header h1 { font-size: 22px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="page-header">
+        <a href="../index.html" class="back-link">← トップ</a>
+        <h1>セット・コース</h1>
+    </div>
+    <div class="index-header">
+        <h1>セット・コース</h1>
+        <p>SET & COURSE</p>
+    </div>
+    <div class="cat-grid">
+        <a href="all-you-can-eat.html" class="cat-card">
+            <div class="cat-card-img">
+                <img src="../images/buffet/all-you-can-eat-hero.jpg" alt="食べ放題・飲み放題" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="cat-card-ph" style="background:#B71C1C;">
+                    <div style="font-size:40px;margin-bottom:8px;">🍽️</div>
+                    <div>食べ放題・飲み放題</div>
+                </div>
+            </div>
+            <div class="cat-card-body">
+                <div class="cat-card-name">食べ放題・飲み放題</div>
+            </div>
+        </a>
+        <a href="course.html" class="cat-card">
+            <div class="cat-card-img">
+                <img src="../images/buffet/course-hero.jpg" alt="逸品居お得コース" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="cat-card-ph" style="background:#880E4F;">
+                    <div style="font-size:40px;margin-bottom:8px;">🥘</div>
+                    <div>逸品居お得コース</div>
+                </div>
+            </div>
+            <div class="cat-card-body">
+                <div class="cat-card-name">逸品居お得コース</div>
+            </div>
+        </a>
+        <a href="drink-set.html" class="cat-card">
+            <div class="cat-card-img">
+                <img src="../images/buffet/drink-set-hero.jpg" alt="お得な飲みセット" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="cat-card-ph" style="background:#E65100;">
+                    <div style="font-size:40px;margin-bottom:8px;">🍻</div>
+                    <div>お得な飲みセット</div>
+                </div>
+            </div>
+            <div class="cat-card-body">
+                <div class="cat-card-name">お得な飲みセット</div>
+            </div>
+        </a>
+        <a href="set-meal.html" class="cat-card">
+            <div class="cat-card-img">
+                <img src="../images/buffet/set-meal-hero.jpg" alt="定食メニュー" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="cat-card-ph" style="background:#00695C;">
+                    <div style="font-size:40px;margin-bottom:8px;">🍱</div>
+                    <div>定食メニュー</div>
+                </div>
+            </div>
+            <div class="cat-card-body">
+                <div class="cat-card-name">定食メニュー</div>
+            </div>
+        </a>
+        <a href="small-plate.html" class="cat-card">
+            <div class="cat-card-img">
+                <img src="../images/buffet/small-plate-hero.jpg" alt="小皿料理" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="cat-card-ph" style="background:#4527A0;">
+                    <div style="font-size:40px;margin-bottom:8px;">🥢</div>
+                    <div>小皿料理</div>
+                </div>
+            </div>
+            <div class="cat-card-body">
+                <div class="cat-card-name">小皿料理</div>
+            </div>
+        </a>
+    </div>
+</body>
+</html>

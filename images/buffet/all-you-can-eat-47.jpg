@@ -1,0 +1,1268 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5J9LJSP2');</script>
+<!-- End Google Tag Manager -->
+<meta name="robots" content="index,follow">
+<title class="notranslate">道頓堀 屋台村 祭 │ 公式サイト（大阪なんば）</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="道頓堀 屋台村 祭は大阪のなんばにある、365日いつでもお祭り気分を楽しめる特別な空間で、日本の伝統的な祭りの雰囲気を再現し、日本人も外国人も一緒に楽しめる飲食施設です。">
+<link rel="shortcut icon" href="/img/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/css/style.css?v=260407&1775570872">
+<link rel="stylesheet" type="text/css" href="/css/calendar.css">
+<!-- FullCalendar-->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@200..900&display=swap" rel="stylesheet">
+<!-- fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@200..900&family=Zen+Old+Mincho:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<link rel="alternate" hreflang="ja" href="https://osaka-yataimura.com/">
+<link rel="alternate" hreflang="zh" href="https://osaka-yataimura.com/zh-CN">
+<link rel="alternate" hreflang="en" href="https://osaka-yataimura.com/en">
+<link rel="alternate" hreflang="ko" href="https://osaka-yataimura.com/ko">
+<link rel="alternate" hreflang="x-default" href="https://osaka-yataimura.com/">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5J9LJSP2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+    <div class="hd_top flex">
+        <h1><a href="/"><img src="/img/logo_main.png" class="" alt="大阪なんばの道頓堀屋台村 祭"></a></h1>
+        <div class="translation notosans">
+            <!-- 地球マーク（SP用） -->
+            <button class="lang-toggle sp" aria-label="言語切替">
+                <img src="/img/ts_icon.png">
+            </button>
+            <div class="gtranslate_wrapper"></div>
+            <script>
+window.gtranslateSettings = {
+  default_language: "ja",
+  native_language_names: true,
+  detect_browser_language: false,
+  languages: ["ja","zh-CN","zh-TW","en","ko"],
+  wrapper_selector: ".gtranslate_wrapper"
+};
+            </script>
+            <script src="https://cdn.gtranslate.net/widgets/latest/ln.js"></script>
+        </div>
+        <!-- SP hamburger -->
+        <div class="openbtn"><span></span><span></span><span></span></div>
+        <nav id="g-nav">
+            <div id="g-nav-list"><!--ナビの数が増えた場合縦スクロールするためのdiv※不要なら削除-->
+                <ul>
+                    <li class="logolink"><a href="/"><img src="/img/logo_white.png"></a></li>
+										<li><a href="/">TOP</a>
+										<li><a href="/food">食べ物を探す</a></li>
+										<li><a href="/drink">飲み物を探す</a></li>
+										<li><a href="/#floor">フロアマップ</a></li>
+										<li><a href="/#access" class="notranslate of-access">アクセス</a></li>
+										<li><a href="/event">イベント</a></li>
+										<li><a href="/blog">ブログ</a></li>
+										<li><a href="/contact">お問い合わせ</a></li>
+										<li><a href="/contact2">出店募集</a></li>
+                    <li class="reservelink"><a class="flex" href="https://www.tablecheck.com/shops/osaka-yataimura/reserve" target="_blank">来店ご予約はこちら</a></li>
+			<li><a id="uber-link" href="https://www.ubereats.com/jp/store/richards-%E7%A5%AD-smash-burgers-%26-tacos/e8QWh8ZlSgKawaw3K92xvg?srsltid=AfmBOooYMRKc0CImRXaDNXpiycQY6EUiTeN3UGSO7nuFJxwxr0Uxrdag" target="_blank"><img src="/img/uber.webp" alt="uber"></a></li>
+                </ul>
+                <hr class="gnavline">
+                <p>
+                    道頓堀屋台村　　<a href="/privacy">プライバシーポリシー</a>　　<a href="/company">運営会社</a>
+                </p>
+            </div>
+        </nav>
+        <div class="reserve_btn pc">
+            <a class="flex" href="https://www.tablecheck.com/shops/osaka-yataimura/reserve" target="_blank">
+                来店ご予約はこちら
+            </a>
+        </div>
+    </div>
+</header>
+    <main class="toppage">
+        <ul class="p_link pc pcflex absolute top_fadein">
+				<li><a href="./">TOP</a>
+				<li><a href="./food">食べ物を探す</a></li>
+				<li><a href="./drink">飲み物を探す</a></li>
+				<li><a href="./#floor">フロアマップ</a></li>
+				<li><a href="./#access" class="notranslate of-access">アクセス</a></li>
+				<li><a href="./event">イベント</a></li>
+				<li><a href="./blog">ブログ</a></li>
+				<li><a href="./contact">お問い合わせ</a></li>
+				<li><a href="./contact2">出店募集</a></li>
+        </ul>
+        <section class="mainvisual">
+            <img src="/img/g_deco_mv_left.png" class="g_deco mv_left absolute fadein-late">
+            <img src="/img/g_deco_mv_right.png" class="g_deco mv_right absolute fadein-late">
+            <img src="/img/g_deco_mv_bottom.png" class="g_deco mv_bottom absolute fadein-late">
+            <div class="title_area absolute fadein-group">
+                <img src="/img/mv_title_1.png" class="title_1 auto fadein-item">
+                <img src="/img/mv_title_2.png" class="title_2 auto fadein-item">
+            </div>
+            <div class="dark_overlay"></div>
+            <div class="img_area flex absolute fadein-group">
+                <img src="/img/mv_1.webp" class="fadein-item">
+                <img src="/img/mv_2.webp" class="fadein-item">
+                <img src="/img/mv_3.webp" class="fadein-item">
+                <img src="/img/mv_4.webp" class="fadein-item">
+                <img src="/img/mv_5.webp" class="fadein-item">
+            </div>
+
+            <a class="flex absolute fadein-late" href="https://www.tablecheck.com/shops/osaka-yataimura/reserve" target="_blank">
+                祭り体験参加はこちら
+            </a>
+
+            <span class="mv_time">Open 4:00 PM - 11:30 PM</span>
+        </section>
+
+        <section class="top_guide" id="guide">
+            <h2 class="ac">屋台村ガイド</h2>
+            <div class="guide_bt">
+                <ul class="flex auto">
+                    <li>
+                        <a href="/food">
+                            <h3>食べ物</h3>
+                            <strong class="notranslate">Food & Menu</strong>
+                            <span class="flex absolute">詳しく見る</span>
+                            <div><img src="/img/guide_link_food.png"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/drink">
+                            <h3 class="notranslate of-drink">飲み物</h3>
+                            <strong class="notranslate">Drinks & Bar</strong>
+                            <span class="flex absolute">詳しく見る</span>
+                            <div><img src="/img/guide_link_drink.png"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/#event">
+                            <h3 class="notranslate of-event">イベント</h3>
+                            <strong class="notranslate">Entertainment</strong>
+                            <span class="flex absolute">詳しく見る</span>
+                            <div><img src="/img/guide_link_event.png"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.tablecheck.com/shops/osaka-yataimura/reserve" target="_blank">
+                            <h3>予約</h3>
+                            <strong class="notranslate">Visitor Guide</strong>
+                            <span class="flex absolute">詳しく見る</span>
+                            <div><img src="/img/guide_link_howto.png"></div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <img src="/img/g_deco_guide_bottom.png" class="g_deco guide_bottom absolute">
+
+        </section>
+
+        <section class="event" id="event">
+            <h2>イベント</h2>
+            <div class="cl_wrap auto notosans">    
+                <div id="calendar-header" class="custom-header"></div>
+    			<div id="calendar"></div>
+            </div>
+
+            <div class="ev_bottom pcflex spcolumn auto">
+                <div class="floor_map pccolumn spflex" id="floor">
+								<a href="/img/floor_1.webp?1769590041" data-lightbox="map" data-title="屋台村マップ1">
+                    <img src="/img/floor_1.webp?1769590041" alt="屋台村マップ1">
+                    </a>
+
+                    <a href="/img/floor_2.webp?1769590042" data-lightbox="map" data-title="屋台村マップ2">
+                    <img src="/img/floor_2.webp?1769590042" alt="屋台村マップ2">
+                    </a>
+                </div>
+                <div class="event_pickup column">
+                    <div class="event_pickup_wrap notosans">
+<img src="http://osaka-yataimura.com/upload/news/1f25d167043d15b0ca13d4238700d8bf941252e6_thumb.webp" class="img_area">
+                        <h3 class="pcflex spcolumn auto">
+                            <span class="flex">
+                                <img src="/img/icon_day.png" class="">
+3月28日（土）
+19:00                            </span>
+                        </h3>
+                        <div class="auto news-inner">
+よさこいチーム 夢源風人様によるよさこい踊りレクチャー＆新作演舞お披露目！【2026年3月28日(土)開催！】<br>
+                            <br>
+2026年3月28日(土)、道頓堀 屋台村 祭に「よさこいチーム 夢源風人」様をお迎えし、よさこい踊りレクチャーイベントを開催いたします。<br />
+<br />
+夢源風人様は、3月21日(土)開催の「春風のおまつり」にて、新作演舞「群青ひゅるり」をお披露目。<br />
+その話題の新作演舞を、道頓堀 屋台村 祭でも特別に披露していただきます。<br />
+<br />
+誕生したばかりの新作を間近でご覧いただける貴重な機会です。<br />
+<br />
+当日は、迫力あるよさこい演舞に加え、鳴子（なるこ）を使ったよさこいレクチャー体験も実施。<br />
+演舞で使用する鳴子をお客様にお貸しし、簡単な振り付けを一緒に体験していただけます。初めての方でも安心してご参加ください。<br />
+<div style="text-align: left;"><br />
+  <a href="https://www.tablecheck.com/shops/osaka-yataimura/reserve?menu_items=68ce6a393e584ee395139fb8&start_date=2026-03-28&num_people=1&start_time=19:00" rel="noopener noreferrer" target="_blank" style="position: relative; display: inline-block; background: #e95d34; border:1px solid #e95d34; box-shadow: 0 3px 5px rgba(0,0,0,.5); border-radius: 5px; font-size: 1.1em; font-weight: bold; color: #ffffff; text-decoration: none; padding: 0.5em 1em 0.5em 1em; transition: 0.5s;" onMouseOver="this.style.background='#000000';this.style.color='#ffffff';this.style.boxShadow= 'none';this.style.border='1px solid #ffffff';" onMouseOut="this.style.background='#ff8f00';this.style.color='#ffffff';this.style.boxShadow= '0 3px 5px rgba(0,0,0,.5)';this.style.border='1px solid #ff8f00';">よさこい踊りレクチャー【1,000円コース】ご予約はこちら</a><br />
+</div><br />
+<div style="text-align: left;"><br />
+  <a href="https://www.tablecheck.com/shops/osaka-yataimura/reserve?menu_items=68ce6a4b39d419591ee3d098&start_date=2026-03-28&num_people=1&start_time=19:00" rel="noopener noreferrer" target="_blank" style="position: relative; display: inline-block; background: #e95d34; border:1px solid #e95d34; box-shadow: 0 3px 5px rgba(0,0,0,.5); border-radius: 5px; font-size: 1.1em; font-weight: bold; color: #ffffff; text-decoration: none; padding: 0.5em 1em 0.5em 1em; transition: 0.5s;" onMouseOver="this.style.background='#000000';this.style.color='#ffffff';this.style.boxShadow= 'none';this.style.border='1px solid #ffffff';" onMouseOut="this.style.background='#ff8f00';this.style.color='#ffffff';this.style.boxShadow= '0 3px 5px rgba(0,0,0,.5)';this.style.border='1px solid #ff8f00';">よさこい踊りレクチャー ※飲み放題付き【3,000円コース】ご予約はこちら</a><br />
+</div><br />
+<br />
+――――――――――――――――――――――――<br />
+◆開催概要◆<br />
+<br />
+【日時】<br />
+2026年3月28日(土)<br />
+<br />
+1部：19:00～<br />
+2部：20:00～<br />
+<br />
+【場所】<br />
+道頓堀 屋台村 祭<br />
+<br />
+【出演】<br />
+よさこいチーム 夢源風人<br />
+<br />
+【参加費】<br />
+1,000円<br />
+<br />
+【内容】<br />
+・新作演舞「群青ひゅるり」披露<br />
+・よさこい演舞<br />
+・鳴子を使ったよさこい踊りレクチャー体験<br />
+<br />
+――――――――――――――――――――――――<br />
+<br />
+■公式HP<br />
+https://pitwu.com/<br />
+<br />
+■SNSアカウント<br />
+X：@mugenkajipitwu<br />
+https://x.com/mugenkajipitwu?s=21<br />
+<br />
+Instagram：@mugenkajipitwu<br />
+https://www.instagram.com/mugenkajipitwu?igsh=OWIwd3VrbGZ3cG5p<br />
+<br />
+――――――――――――――――――――――――<br />
+<br />
+新作演舞とともに、よさこいの魅力を体験できる特別な一夜。<br />
+皆さまのご来場を心よりお待ちしております。                        </div>
+                    </div>
+                    <a href="/event" class="more_event flex auto">イベント一覧はこちら</a>
+                </div>
+
+            </div>
+
+        </section>
+<div class="cl-modal js-modal">
+  <div class="cl-modal-container">
+    <!-- モーダルを閉じるボタン -->
+    <div class="cl-modal-close js-modal-close">×</div>
+    <!-- モーダル内部のコンテンツ -->
+    <div class="cl-modal-content">
+			<h3></h3>
+      <div class="inner-contents"></div>
+    </div>
+  </div>
+</div>
+
+<style>
+/* モーダルと背景の指定 */
+.cl-modal{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background: rgba(0,0,0,50%);
+  padding: 40px 20px;
+  overflow: auto;
+  opacity: 0;
+  visibility: hidden;
+  transition: .3s;
+  box-sizing: border-box;
+	z-index: 1;
+}
+
+/* モーダルの擬似要素の指定 */
+.cl-modal:before{
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+  margin-left: -0.2em;
+}
+
+/* クラスが追加された時の指定 */
+.cl-modal.is-active{
+  opacity: 1;
+  visibility: visible;
+ display:block;
+z-index:10;
+}
+
+/* モーダル内側の指定 */
+.cl-modal-container{
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 600px;
+  width: 96%;
+}
+
+/* モーダルを閉じるボタンの指定 */
+.cl-modal-close{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: -20px;
+  right: -20px;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  background: #000;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* モーダルのコンテンツ部分の指定 */
+.cl-modal-content{
+  background: #fff;
+  text-align: left;
+  line-height: 1.8;
+  padding: 20px;
+}
+
+/* モーダルのコンテンツ部分のテキストの指定 */
+.cl-modal-content h3{
+	font-size:24px;
+  margin: 1em 0;
+}
+.cl-modal-content p{
+	font-size:16px;
+  margin: 1em 0;
+}
+@media (max-width: 800px) {
+.cl-modal{
+padding-top:200px;
+}
+}
+.fc-h-event .fc-event-title {
+cursor:pointer;
+text-overflow:ellipsis;
+}
+</style>
+<script src="/js/index.global.min.js?20260309"></script>
+<script src="/js/locales-all.global.min.js"></script>
+<script>
+// カレンダー
+document.addEventListener('DOMContentLoaded', function () {
+  const calendarEl = document.getElementById('calendar');
+  const headerWrapper = document.getElementById('calendar-header'); // wrapper全体
+  const headerCenterEl = document.createElement('div');
+  headerCenterEl.id = 'calendar-header-center';
+
+  // ヘッダーの初期構築（1回だけ）
+  headerWrapper.innerHTML = `
+    <div class="custom-header-wrapper flex">
+      <button class="nav global-prev"></button>
+    </div>
+  `;
+  headerWrapper.querySelector('.custom-header-wrapper').appendChild(headerCenterEl);
+  headerWrapper.querySelector('.custom-header-wrapper').insertAdjacentHTML('beforeend', `
+    <button class="nav global-next"></button>
+  `);
+
+  // 中央部分（年・月表示 + 年月切替ボタン）のDOM構築（初回のみ）
+  const headerInner = document.createElement('div');
+  headerInner.className = 'custom-header-inner flex';
+  headerInner.innerHTML = `
+    <span class="year"></span>
+    <div class="switchs column">
+      <button class="nav prev-year"></button>
+      <button class="nav next-year"></button>
+    </div>
+
+    <span class="month"></span>
+    <div class="switchs column">
+      <button class="nav prev-month"></button>
+      <button class="nav next-month"></button>
+    </div>
+  `;
+  headerCenterEl.appendChild(headerInner);
+
+  // カレンダー生成
+  const calendar = new FullCalendar.Calendar(calendarEl, {
+    initialView: 'dayGridMonth',
+    locale: 'ja',
+    headerToolbar: false,
+    fixedWeekCount: true,
+    contentHeight: 'auto',
+		events: {
+				url: '/main/get_news?ln=ja',
+		},
+
+		eventDidMount: function(info) {
+//			console.log(info.event.title);
+			info.el.onclick=function(){
+				document.querySelector('.cl-modal-content h3').textContent = info.event.title;
+				document.querySelector('.cl-modal-content div.inner-contents').innerHTML = info.event.extendedProps.description;
+				modalOpen();
+			};
+		},
+    dayCellContent: function(arg) {
+      return arg.date.getDate(); // → 数字だけ（1, 2, 3, ...）
+    },
+
+    datesSet(info) {
+      updateCalendarHeader(info); // テキスト更新だけ
+    }
+  });
+
+  // 年・月テキスト更新関数
+  function updateCalendarHeader(info) {
+    const date = new Date(info.view.currentStart);
+    const year = date.getFullYear();
+    const month = date.getMonth() + 1;
+
+    headerInner.querySelector('.year').textContent = `${year}年`;
+    headerInner.querySelector('.month').textContent = `${month}月`;
+  }
+
+  // ボタンイベント登録（最初に一度だけ）
+  headerInner.querySelector('.prev-year').onclick = () => calendar.prevYear();
+  headerInner.querySelector('.next-year').onclick = () => calendar.nextYear();
+  headerInner.querySelector('.prev-month').onclick = () => calendar.prev();
+  headerInner.querySelector('.next-month').onclick = () => calendar.next();
+  headerWrapper.querySelector('.global-prev').onclick = () => calendar.prev();
+  headerWrapper.querySelector('.global-next').onclick = () => calendar.next();
+
+  // レンダリング
+  calendar.render();
+});
+let modal, close;
+//「開くボタン」をクリックしてモーダルを開く
+function modalOpen() {
+  modal.classList.add('is-active');
+}
+//「閉じるボタン」をクリックしてモーダルを閉じる
+function modalClose() {
+  modal.classList.remove('is-active');
+}
+function modalOut(e) {
+	if (e.target == modal) {
+		modal.classList.remove('is-active');
+	}
+}
+document.addEventListener("DOMContentLoaded", function(){
+	modal = document.querySelector('.js-modal'),
+				close = document.querySelector('.js-modal-close');
+
+			console.log(modal.classList);
+	close.addEventListener('click', modalClose);
+
+	//「モーダルの外側」をクリックしてモーダルを閉じる
+	addEventListener('click', modalOut);
+});
+</script>
+        <section class="foodstall" id="foodstall">
+            <img src="/img/hr_img.webp" alt="大阪屋台村" class="fs_hr">
+            <img src="/img/g_deco_fs_1.png" class="g_deco fs_1 absolute">
+            <h2 class="ac">屋台</h2>
+            <img src="/img/g_deco_fs_2.png" class="g_deco fs_2 absolute">
+
+            <div class="top_fs_list flex auto">
+                <div>
+								<a href="/food/50">
+<img src="http://osaka-yataimura.com/upload/genre/9d7a1bd56aa889aa4103d1ba735d253d5bf4de4c_thumb.png" alt="海鮮屋台 おおきに水産">
+                        <h3>海鮮屋台 おおきに水産</h3>
+                    </a>
+                </div>
+                <div>
+								<a href="/food/60">
+<img src="http://osaka-yataimura.com/upload/genre/e826fd2e8262df14c0c9f796be597a6351aa544b_thumb.jpg" alt="Tebataco">
+                        <h3>Tebataco</h3>
+                    </a>
+                </div>
+                <div>
+								<a href="/food/52">
+<img src="http://osaka-yataimura.com/upload/genre/20d32533507f6faaee65d33cd4bdc22e5dfe4ee1_thumb.webp" alt="DOTON SMASH BURGERS">
+                        <h3>DOTON SMASH BURGERS</h3>
+                    </a>
+                </div>
+                <div>
+								<a href="/food/53">
+<img src="http://osaka-yataimura.com/upload/genre/76d7a8b6ff6ecdf7f360a2c0f76cdfab8a4ef495_thumb.webp" alt="串カツ おさむちゃん">
+                        <h3>串カツ おさむちゃん</h3>
+                    </a>
+                </div>
+                <div>
+								<a href="/food/54">
+<img src="http://osaka-yataimura.com/upload/genre/4e24f045946560e2eb2c1766df06e8a1d0c9cb02_thumb.webp" alt="てんぷら翔">
+                        <h3>てんぷら翔</h3>
+                    </a>
+                </div>
+                <div>
+								<a href="/food/55">
+<img src="http://osaka-yataimura.com/upload/genre/3dfad3e7f9730327320b9240340c93f362e9ab85_thumb.webp" alt="くれおーる">
+                        <h3>くれおーる</h3>
+                    </a>
+                </div>
+                <div>
+								<a href="/food/57">
+<img src="http://osaka-yataimura.com/upload/genre/bbf56feaaf2232485535871fe1ef2ff45993bb97_thumb.webp" alt="お好み焼き 英ちゃん">
+                        <h3>お好み焼き 英ちゃん</h3>
+                    </a>
+                </div>
+                <div>
+                    <a href="/drink">
+                        <img src="/img/fs_food_8.png" alt="かんぱい酒場">
+                        <h3>かんぱい酒場</h3>
+                    </a>
+                </div>
+
+            </div>
+
+        </section>
+
+        <section class="access" id="access">
+            <h2 class="notranslate of-access">アクセス</h2>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d205.08895593742096!2d135.5019582!3d34.6692647!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e7df43f7cc79%3A0x9cbc04d1b980b923!2z6YGT6aCT5aCAIOWxi-WPsOadkSDnpa0!5e0!3m2!1sja!2sjp!4v1728462175222!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="auto accessmap"></iframe>
+
+                <div class="access_bottom pcflex spcolumn auto">
+                    <div class="root">
+                        <p class="notranslate of-cta1" style="font-weight:bold; margin-bottom:10px; color:#e60012;"></p>
+                        <h3><span style="font-weight:bold;">宗右衛門町側</span> 道順</h3>
+                        <ul class="pcflex spcolumn">
+                            <li>
+                                <img src="/img/access/1/1.webp" alt="道順1">
+                                <p>①Osaka Metro なんば駅 14番出口を出て振り返り道沿いに歩く。</p>
+                            </li>
+                            <li>
+                                <img src="/img/access/1/2.webp" alt="道順2">
+                                <p>②道沿いのはり重を右折し左手に道頓堀川が見えるのでそのまま橋を渡る。</p>
+                            </li>
+                            <li>
+                                <img src="/img/access/1/3.webp" alt="道順3">
+                                <p>③橋を渡って商店街手前の右手に宗右衛門町への道路が見えるので右折。</p>
+                            </li>
+                            <li>
+                                <img src="/img/access/1/4.webp" alt="道順4">
+                                <p>④道沿いをまっすぐ歩くと右手に大きな提灯があるのでそこが道頓堀屋台村祭です。</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="root_movie">
+                        <h3>45秒行き方動画</h3>
+                        <video src="/img/access/1.mp4" controls autoplay muted playsinline poster="img/shop_thumb.webp"></video>
+
+                    </div>
+                </div>
+
+                <div class="access_bottom pcflex spcolumn auto" style="margin-top:128px;">
+                    <div class="root">
+                        <h3><span style="font-weight:bold;">リバーサイド側</span> 道順</h3>
+                        <ul class="pcflex spcolumn">
+                            <li>
+                                <img src="/img/access/2/1.webp" alt="道順1">
+                                <p>①Osaka Metro なんば駅 14番出口を出て振り返り道沿いに歩く。</p>
+                            </li>
+                            <li>
+                                <img src="/img/access/2/2.webp" alt="道順2">
+                                <p>②道沿いのはり重を右折し左手に道頓堀川が見えるのでそのまま橋を渡る。</p>
+                            </li>
+                            <li>
+                                <img src="/img/access/2/3.webp" alt="道順3">
+                                <p>③橋を渡り切る直前の右手に階段があるので降りて左手に進む。</p>
+                            </li>
+                            <li>
+                                <img src="/img/access/2/4.webp" alt="道順4">
+                                <p>④道沿いの左手に提灯とネオンが光る施設があるのでそこが道頓堀屋台村祭です。</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="root_movie">
+                        <h3>45秒行き方動画</h3>
+                        <video src="/img/access/2.mp4" controls autoplay muted playsinline poster="img/shop_thumb.webp"></video>
+
+                    </div>
+                </div>
+
+
+        </section>
+
+        <section class="faq" id="faq">
+            <h2>よくある質問</h2>
+
+            <ul class="faq_link pc pcflex auto">
+                <li><a href="#faq_normal">基本情報</a></li>
+                <li><a href="#faq_access" class="notranslate of-access">アクセス</a></li>
+                <li><a href="#faq_cache">支払い・キャッシュレス</a></li>
+                <li><a href="#faq_facility">施設・設備</a></li>
+                <li><a href="#faq_family">ファミリー向け</a></li>
+                <li><a href="#faq_reserve">予約・イベント</a></li>
+                <li><a href="#faq_multilingual" class="notranslate of-global">多言語対応</a></li>
+            </ul>
+
+            <div class="faq_main accordion auto">
+                <h3 id="faq_normal">基本情報</h3>
+
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>入場料はかかりますか？</p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        入場は完全無料です！どなたでもお気軽にご来場いただけます。
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>営業時間を教えてください。</p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        毎日16:00〜23:30まで営業しています。仕事帰りや観光の夜ごはんにもピッタリです！
+                        </p>
+                    </div>
+                </div>
+
+                <h3 id="faq_access" class="notranslate of-access">アクセス</h3>
+
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            どこにありますか？最寄駅は？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        「大阪メトロなんば駅」または「近鉄日本橋駅」から<span class="of-walk">徒歩5分</span>ほど。道頓堀川沿いの宗右衛門町エリアにあります！
+                        </p>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            最寄り駅・駐車場はどこですか？シャトルバスはありますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        最寄り駅：<br>
+                        大阪メトロ御堂筋線「なんば駅」14番出口から<span class="of-walk">徒歩約5分</span><br>
+                        近鉄・阪神「大阪難波駅」 <span class="of-walk">徒歩約5分</span><br>
+                        地下鉄千日前線「なんば駅」 <span class="of-walk">徒歩約4分</span><br>
+                        <br>
+                        道頓堀川沿い、宗右衛門町エリアに位置し、赤い提灯が目印です。<br>
+                        <br>
+                        駐車場：<br>
+                        専用駐車場はございませんが、近隣に予約可能なパーキングが複数あります。<br>
+                        <br>
+                        シャトルバス：<br>
+                        現在、シャトルバスの運行はございません。公共交通機関をご利用いただくか、近隣の駐車場をご利用ください。<br>
+                        </p>
+                    </div>
+                </div>
+
+
+                <h3 id="faq_cache">支払い・キャッシュレス</h3>
+
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            支払い方法は？現金が必要？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        多くの店舗で、現金・クレジットカード・電子マネー・QR決済に対応しています。<br>
+                        <br>
+                        ・電子決済<br>
+                        d払い / au PAY / PayPay / 交通系ICカード / 楽天ペイ / LINE Pay<br>
+                        <br>
+                        ・クレジットカード<br>
+                        American Express / JCB / MasterCard / VISA<br>
+                        <br>
+                        ・QRコード決済<br>
+
+                        </p>
+                    </div>
+                </div>
+
+                <h3 id="faq_facility">施設・設備</h3>
+
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            雨の日でも楽しめますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        大丈夫です！屋根付きのエリアがあり、雨天時でも営業しています。天候問わず、お祭り気分で楽しめます。
+
+                        </p>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            屋台以外に座って食べられる場所はありますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        屋台村内にテーブル・イスのあるお食事スペースが多数あります。グループでも飲食でき、ゆったり過ごせますよ！
+
+                        </p>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            禁煙ですか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        全席禁煙です。
+                        </p>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            トイレはありますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        屋台村敷地内にトイレを完備しています。案内看板を参考にご利用ください。
+                        </p>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            イートイン席・立ち食いカウンター・共有テーブルはどこにありますか？雨天でも屋根付きで食べられますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        1F　 テーブル席<br>
+                        　　 テラス席<br>
+                        <br>
+                        2F　 テーブル席<br>
+                        　　 カウンター席（寿司）<br>
+
+                        </p>
+                    </div>
+                </div>
+
+                <h3 id="faq_family">ファミリー向け</h3>
+
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            子ども連れでも大丈夫ですか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                       もちろんOKです！唐揚げや焼きそばなど、お子さまにも人気のメニューも多数ご用意しております。 
+                        </p>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            ペットは同伴できますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+                        ペットの同伴はご遠慮いただいております。
+                        </p>
+                    </div>
+                </div>
+
+                <h3 id="faq_reserve">予約・イベント</h3>
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            予約はできますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+もちろん、ご予約可能となっております。席のみや、イベントに参加しながら飲み放題メニューなども用意しておりますのでぜひご活用ください。
+                        </p>
+                    </div>
+                    <div class="answer">
+        <p class="notranslate of-cta2" style="font-weight:bold; text-align:center; margin-bottom:5px; color:#e60012;"></p>
+        <div class="reserve_btn" style="margin:6px auto;">
+            <a class="flex" href="https://www.tablecheck.com/shops/osaka-yataimura/reserve" target="_blank">
+                来店ご予約はこちら
+            </a>
+        </div>
+                    </div>
+                </div>
+
+                <h3 id="faq_multilingual" class="notranslate of-global">多言語対応</h3>
+                <div class="accordion-item">
+                    <div class="question">
+                        <strong>Q</strong>
+                        <p>
+                            外国語のメニューや案内はありますか？
+                        </p>
+                    </div>
+                    <div class="answer">
+                        <strong>A</strong>
+                        <p>
+もちろんございます。外国人スタッフや多言語対応が可能なスタッフも常駐しておりますので、外国人観光客の方でも安心して楽しんでいただけます！
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <a href="/faq" class="more_btn_w flex auto">詳細はこちら</a>
+
+
+
+            </div>
+            <img src="/img/g_deco_rv_1.png" class="g_deco rv_1 absolute">
+            <img src="/img/g_deco_rv_2.png" class="g_deco rv_2 absolute pc">
+            <img src="/img/g_deco_rv_2_sp.png" class="g_deco rv_2 absolute sp">
+        </section>
+
+        <section class="review" id="review">
+<script>
+const API_KEY = 'AIzaSyDlBkIxVmbr4B7BsnHzSbaX8w0RUZozr_U';
+$.getScript('https://maps.google.com/maps/api/js?key=' + API_KEY + '&libraries=places', function(){
+	const service = new google.maps.places.PlacesService(document.createElement('div'));
+
+	// 全レビュー格納所
+	const allReview = [];
+	// 全レビュー出力場所
+	const $review_all = $('#js_review_all');
+	service.getDetails({
+		placeId: 'ChIJecz3Q9_nAGARI7mAudEEvJw',
+		fields: ['review'],
+		language: 'ja'
+	}, function(place, status) {
+		if (status == google.maps.places.PlacesServiceStatus.OK) {
+			$.each(place.reviews, function(){
+				// レビューの氏名・レート・内容を取得し格納
+				const reviewObj = {};
+				reviewObj['name'] = this.author_name;
+				reviewObj['rate'] = this.rating;
+				reviewObj['content'] = this.text;
+				reviewObj['url'] = this.author_url;
+				reviewObj['image'] = this.profile_photo_url;
+				reviewObj['date'] = this.relative_time_description;
+				reviewObj['time'] = this.time;
+				// 全レビュー格納所へin
+				allReview.push(reviewObj);
+			});
+			allReview.sort((a, b) => {
+			if (a.time < b.time) {
+				return 1;
+			} else if (b.time < a.time) {
+				return -1;
+			}
+			return 0;
+			});
+		}
+		// 全クチコミを回す
+		let cnt = 0;
+		for (const key in allReview) {
+			let star;
+			let $append = '<li class="rv_main"><div class="rv_hd flex"><img src="' + allReview[key].image + '" alt="' + allReview[key].name + '">';
+			$append += '<h3 class="column">' + allReview[key].name + '<small>' + allReview[key].date + '</small></h3></div>';
+			$append += '<div class="star flex">';
+			for (let star = 1; star <= allReview[key].rate; star++) {
+				$append += '<img src="/img/rv_star.png">';
+			}
+			$append += '</div><p>' + allReview[key].content.substring(0, 135) + '...</p></li>';
+			// 全クチコミ用格納dlにどんどん追加する
+			$review_all.append($append);
+		}
+    $('.rv_slide').slick({
+      infinite: true,
+      slidesToShow: 7,
+      slidesToScroll: 1,
+      arrows: true,
+      dots: false,
+      fade: false,
+      centerMode: false,
+      prevArrow: '<button type="button" class="slick-prev" aria-label="Previous"></button>',
+      nextArrow: '<button type="button" class="slick-next" aria-label="Next"></button>',
+      responsive: [
+        {
+          breakpoint: 1731,
+          settings: {
+            slidesToShow: 6,
+          },
+        },
+        {
+          breakpoint: 1441,
+          settings: {
+            slidesToShow: 5,
+          },
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 1,
+            centerMode: false,
+          },
+        },
+      ],
+    });
+	});
+});
+</script>
+            <h2 class="ac">お客様の声</h2>
+            <ul class="rv_slide" id="js_review_all"></ul>
+            <a href="/review" class="more_btn_w flex auto">詳細はこちら</a>
+        </section>
+    </main>
+
+
+
+
+<div class="sp jyf_link">
+	<a href="https://www.tablecheck.com/shops/osaka-yataimura/reserve" target="_blank">
+		<img src="../img/booknow.png" alt="Japanese Yatai Food in Osaka">
+	</a>
+</div>
+<footer>
+    <div class="ft_top pcflex spcolumn auto">
+        <a href="index.php" class="ft_logo">
+			<img src="/img/logo_white.png">
+			Open 4:00 PM - 11:30 PM
+	</a>
+		<div class="ft_reserve_area pccolumn spcolumn">
+			<div id="link-wrapper">
+			<a class="flex reserve_link_btn" href="https://www.tablecheck.com/shops/osaka-yataimura/reserve" target="_blank">来店ご予約はこちら</a>
+			<a id="uber-link" href="https://www.ubereats.com/jp/store/richards-%E7%A5%AD-smash-burgers-%26-tacos/e8QWh8ZlSgKawaw3K92xvg?srsltid=AfmBOooYMRKc0CImRXaDNXpiycQY6EUiTeN3UGSO7nuFJxwxr0Uxrdag" target="_blank"><img src="/img/uber.webp" alt="uber"></a>
+			</div>
+			<div class="ft_cta notranslate of-cta-footer">
+				道頓堀の中心で、お祭りの提灯を目印にしてください！予約不要。そのまま入ってお祭りに参加しよう！
+			</div>
+		</div>
+        <ul class="sns pc">
+            <li><a href="https://www.facebook.com/p/%E9%81%93%E9%A0%93%E5%A0%80-%E5%B1%8B%E5%8F%B0%E6%9D%91-%E7%A5%AD-Dotonbori-Yataimura-Matsuri--61569904362184/" target="_blank"><img src="/img/facebook.png"></a></li>
+            <li><a href="https://www.instagram.com/dotonbori.yataimura/" target="_blank"><img src="/img/instagram.png"></a></li>
+            <li><a href="https://x.com/Yataimura_Japan" target="_blank"><img src="/img/x.png"></a></li>
+            <li><a href="https://www.youtube.com/@%E9%81%93%E9%A0%93%E5%A0%80%E5%B1%8B%E5%8F%B0%E6%9D%91%E7%A5%AD" target="_blank"><img src="/img/youtube.png"></a></li>
+        </ul>
+    </div>
+    <ul class="ft_menu pcflex spcolumn auto">
+				<li><a href="/">TOP</a>
+				<li><a href="/food">食べ物を探す</a></li>
+				<li><a href="/drink">飲み物を探す</a></li>
+				<li><a href="/#floor">フロアマップ</a></li>
+				<li><a href="/#access" class="notranslate of-access">アクセス</a></li>
+				<li><a href="/event">イベント</a></li>
+				<li><a href="/blog">ブログ</a></li>
+				<li><a href="/contact">お問い合わせ</a></li>
+				<li><a href="/contact2">出店募集</a></li>
+    </ul>
+    <hr class="auto">
+    <p class="copyright flex auto"><span>© 2025 道頓堀屋台村　　</span><a href="/privacy">プライバシーポリシー</a>　　<a href="/company">運営会社</a>
+    </p>
+</footer>
+<style>
+#link-wrapper
+{display: flex;align-items: baseline;}
+#uber-link
+{display:flex;justify-content:center;position:relative;top:24px;left:24px;}
+#uber-link img
+{width:480px;}
+@media (max-width: 768px) {
+#link-wrapper
+{flex-direction:column;}
+#uber-link
+{top:0;left:0;margin-top:24px;}
+#uber-link img
+{width:100%;}
+}
+</style>
+<script src="/js/main.js?1758683600"></script>
+<script>
+$(function(){
+	const applyMenuHtml = function(ln) {
+		const lang = ln.replace(/\//g, '') || 'ja';
+		
+		// 商品説明（詳細）の切り替え
+		$('[class*="of-desc-"]').hide();
+		const $descs = $('.of-desc-' + lang);
+		if ($descs.length > 0) {
+			$descs.show();
+		} else {
+			$('.of-desc-ja').show();
+		}
+		
+		// キャッチフレーズ（タイトル置換）の切り替え
+		$('[class*="of-catch-"]').hide();
+		// 元のメニュー名と改行のリセット
+		$('.of-menu-name, .of-menu-br').show();
+		
+		const $catches = $('.of-catch-' + lang);
+		if ($catches.length > 0) {
+			$catches.show().each(function(){
+				// キャッチフレーズがある場合は元の名前を隠す
+				$(this).closest('li, .modal-main').find('.of-menu-name, .of-menu-br').not('.not-hide').hide();
+			});
+		} else if (lang !== 'ja') {
+			// 指定言語のキャッチフレーズがない場合、日本語用があればそれを表示してタイトルを隠す（GTranslateの翻訳対象にする）
+			$('.of-catch-ja').show().each(function(){
+				$(this).closest('li, .modal-main').find('.of-menu-name, .of-menu-br').not('.not-hide').hide();
+			});
+		}
+	};
+
+	$(document).on('touchstart click', '.gtranslate_wrapper a', function(){
+		let ln = $(this).attr('data-gt-lang');
+		ln = ln == 'ja' ? '' : ('/' + ln);
+		history.pushState(null, null, location.href.replace(/osaka\-yataimura\.com\/(ja|zh\-CN|zh\-TW|en|ko)?/, 'osaka-yataimura.com' + ln));
+		$('a').each(function(){
+			if (!$(this).attr('data-lightbox') && $(this).attr('href') && $(this).attr('href').match(/^\//)) $(this).attr('href', $(this).attr('href').replace(/^\/(ja|zh\-CN|zh\-TW|en|ko)?\/?/, ln + '/'));
+		});
+		if ($('.of-1-go').length) {
+			$('.of-1-go').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('1合');
+				} else {
+					$(this).text('(180ml)');
+				}
+			});
+		}
+		if ($('.of-1-ko').length) {
+			$('.of-1-ko').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('1個');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('一个');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('한개');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text(' One piece ');
+				}
+			});
+		}
+		if ($('.of-3-ko').length) {
+			$('.of-3-ko').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('3個');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('三个');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('삼개');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text(' Three pieces ');
+				}
+			});
+		}
+		if ($('.of-1-hon').length) {
+			$('.of-1-hon').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('1本');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('一本');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('한병');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text(' One ');
+				}
+			});
+		}
+		if ($('.of-2-hon').length) {
+			$('.of-2-hon').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('2本');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('二本');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('이병');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text(' Two ');
+				}
+			});
+		}
+		if ($('.of-3-hon').length) {
+			$('.of-3-hon').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('3本');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('三本');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('삼병');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text(' Three ');
+				}
+			});
+		}
+		if ($('.of-5-hon').length) {
+			$('.of-5-hon').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('5本');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('五本');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('오병');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text(' Five ');
+				}
+			});
+		}
+		if ($('.of-1-sara').length) {
+			$('.of-1-sara').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('1皿');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('(一盘)');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('(한접시)');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text('(One plate)');
+				}
+			});
+		}
+		if ($('.of-1-hai').length) {
+			$('.of-1-hai').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('1杯');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('(一杯)');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('(한잔)');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text('(serving)');
+				}
+			});
+		}
+		if ($('.of-drink').length) {
+			$('.of-drink').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('飲み物');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('饮料');
+				} else if (ln == '/zh-TW' || ln == '/zh-TW/') {
+					$(this).text('飲料');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('음료');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text('Drinks & Bar');
+				}
+			});
+		}
+		if ($('.of-event').length) {
+			$('.of-event').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('イベント');
+				} else if (ln == '/zh-CN' || ln == '/zh-CN/') {
+					$(this).text('活动');
+				} else if (ln == '/zh-TW' || ln == '/zh-TW/') {
+					$(this).text('活動');
+				} else if (ln == '/ko' || ln == '/ko/') {
+					$(this).text('이벤트');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text('Entertainment');
+				}
+			});
+		}
+		if ($('.of-access').length) {
+			$('.of-access').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('アクセス');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text('Location & Directions');
+				}
+			});
+		}
+		if ($('.of-global').length) {
+			$('.of-global').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('多言語対応');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text('Global Guests Welcome');
+				}
+			});
+		}
+		if ($('.of-walk').length) {
+			$('.of-walk').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).html($(this).html().replace('A 5-minute walk', '徒歩5分'));
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).html($(this).html().replace('徒歩5分', 'A 5-minute walk'));
+				}
+			});
+		}
+		if ($('.of-cta-footer').length) {
+			$('.of-cta-footer').each(function(){
+				if (ln == '' || ln == '/') {
+					$(this).text('道頓堀の中心で、お祭りの提灯を目印にしてください！予約不要。そのまま入ってお祭りに参加しよう！');
+				} else if (ln == '/en' || ln == '/en/') {
+					$(this).text('Find us in the heart of Dotonbori – just look for the festival lights! No reservation needed. Walk in and join the party!');
+				}
+			});
+		}
+		
+		// 新しい汎用タグの適用
+		applyMenuHtml(ln == 'ja' ? '' : ln);
+	});
+	
+	// 初期読み込み時の適用
+	applyMenuHtml('');
+});
+</script>
+
+
+
+
+</body>
+</html>
