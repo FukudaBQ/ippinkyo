@@ -172,8 +172,8 @@
 
         .menu-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 24px;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
         }
 
         .menu-card {
@@ -356,7 +356,7 @@
             }
 
             .menu-grid {
-                grid-template-columns: 1fr;
+                grid-template-columns: repeat(2, 1fr);
                 gap: 16px;
             }
 
@@ -389,7 +389,7 @@
             </a>
             <nav>
                 <a href="#concept">こだわり</a>
-                <a href="#menu">メニュー</a>
+                <a href="menu/index.html">メニュー</a>
                 <a href="#course">コース</a>
                 <a href="#access">アクセス</a>
             </nav>
@@ -423,33 +423,96 @@
             <h2 class="section-title">メニュー</h2>
             <p class="section-subtitle">MENU</p>
             <div class="menu-grid">
-                <div class="menu-card">
-                    <img class="menu-card-img" src="images/menu-appetizer.jpg" alt="前菜・揚げ物">
+                <a href="menu/otsumami.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/otsumami.jpg" alt="おつまみ">
                     <div class="menu-card-body">
-                        <div class="menu-card-title">前菜・揚げ物</div>
-                        <div class="menu-card-desc">よだれ鶏、ピータン、自家製チャーシュー、ギョーザフライなど</div>
+                        <div class="menu-card-title">おつまみ</div>
+                        <div class="menu-card-desc">ポテトフライ、手羽先、鶏軟骨など</div>
                     </div>
-                </div>
-                <div class="menu-card">
-                    <img class="menu-card-img" src="images/menu-stirfry.jpg" alt="炒め物">
+                </a>
+                <a href="menu/seafood.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/seafood.jpg" alt="一品料理 海鮮">
                     <div class="menu-card-body">
-                        <div class="menu-card-title">炒め物</div>
-                        <div class="menu-card-desc">麻婆豆腐、酢豚、鶏肉の四川炒め、エビチリなど</div>
+                        <div class="menu-card-title">一品料理 海鮮</div>
+                        <div class="menu-card-desc">エビチリ、エビマヨ、海鮮おこげなど</div>
                     </div>
-                </div>
-                <div class="menu-card">
-                    <img class="menu-card-img" src="images/menu-dimsum.jpg" alt="点心">
+                </a>
+                <a href="menu/meat.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/meat.jpg" alt="一品料理 肉類">
                     <div class="menu-card-body">
-                        <div class="menu-card-title">点心</div>
-                        <div class="menu-card-desc">焼き餃子、小籠包、シュウマイ、水餃子、春巻き</div>
+                        <div class="menu-card-title">一品料理 肉類</div>
+                        <div class="menu-card-desc">石石鍋マーボ豆腐、酢豚、油淋鶏など</div>
                     </div>
-                </div>
+                </a>
+                <a href="menu/vegetable.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/vegetable.jpg" alt="一品料理 野菜">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">一品料理 野菜</div>
+                        <div class="menu-card-desc">五目野菜炒め、豆苗、酸辣土豆丝など</div>
+                    </div>
+                </a>
+                <a href="menu/rice.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/rice.jpg" alt="ご飯類">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">ご飯類</div>
+                        <div class="menu-card-desc">五目チャーハン、エビ炒飯、高菜チャーハンなど</div>
+                    </div>
+                </a>
+                <a href="menu/noodle.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/noodle.jpg" alt="麺類">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">麺類</div>
+                        <div class="menu-card-desc">四川タンタン麺、マーラー牛バラ麺など</div>
+                    </div>
+                </a>
+                <a href="menu/authentic-chinese.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/authentic-chinese.jpg" alt="本格中華料理">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">本格中華料理</div>
+                        <div class="menu-card-desc">牛スネ醤油煮、ジャガイモナスピーマン炒めなど</div>
+                    </div>
+                </a>
+                <a href="menu/authentic-sichuan.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/authentic-sichuan.jpg" alt="本格四川料理">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">本格四川料理</div>
+                        <div class="menu-card-desc">よだれ鶏、水煮牛肉、酸菜魚など</div>
+                    </div>
+                </a>
+                <a href="menu/claypot.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/claypot.jpg" alt="土鍋料理">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">土鍋料理</div>
+                        <div class="menu-card-desc">豚角煮土鍋、白菜漬け豚バラ土鍋など</div>
+                    </div>
+                </a>
+                <a href="menu/drypot-teppan.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/drypot-teppan.jpg" alt="干鍋・鉄板料理">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">干鍋・鉄板料理</div>
+                        <div class="menu-card-desc">マーラーシャングオ、牛肉鉄板焼きなど</div>
+                    </div>
+                </a>
+                <a href="menu/dimsum-dessert.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/dimsum-dessert.jpg" alt="点心・デザート">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">点心・デザート</div>
+                        <div class="menu-card-desc">焼き餃子、小籠包、シューマイ、杏仁豆腐など</div>
+                    </div>
+                </a>
+                <a href="menu/specialty.html" class="menu-card" style="text-decoration:none;color:inherit;">
+                    <img class="menu-card-img" src="images/menu/specialty.jpg" alt="特色料理">
+                    <div class="menu-card-body">
+                        <div class="menu-card-title">特色料理</div>
+                        <div class="menu-card-desc">肥腸鶏など</div>
+                    </div>
+                </a>
             </div>
 
-            <a href="buffet1.0.html" class="course-banner">
+            <a href="menu/index.html" class="course-banner">
                 <div>
-                    <h3>飲み放題付きコース</h3>
-                    <p>120分飲み放題＋お料理3品 2,980円（税抜）</p>
+                    <h3>全メニューを見る</h3>
+                    <p>14カテゴリーの全メニューをご覧いただけます</p>
                 </div>
                 <div class="course-banner-arrow">›</div>
             </a>
