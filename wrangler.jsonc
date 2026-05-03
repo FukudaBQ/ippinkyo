@@ -9,9 +9,9 @@
     "enabled": true
   },
   "build": {
-    "command": "bash build.sh"
+    "command": "npm ci && npm run build"
   },
   "assets": {
-    "directory": "./public"
+    "directory": "./out"
   }
 }

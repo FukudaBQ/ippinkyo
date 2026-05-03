@@ -2,7 +2,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["develop"]
+    branches: ["master"]
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  build-and-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -24,8 +24,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build site
-        run: bash build.sh
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build (with /ippinkyo basePath)
+        run: npm run build
+        env:
+          DEPLOY_TARGET: gh-pages
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -33,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'public'
+          path: out
 
       - name: Deploy to GitHub Pages
         id: deployment

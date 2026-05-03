@@ -15,8 +15,8 @@ import ssl
 from pathlib import Path
 
 BASE = Path('/Users/bowei.qu/Desktop/projects/personal/ippinkyo')
-DISHES_DIR = BASE / 'images' / 'dishes'
-MENU_DIR = BASE / 'images' / 'menu'
+DISHES_DIR = BASE / 'public' / 'images' / 'dishes'
+MENU_DIR = BASE / 'public' / 'images' / 'menu'
 
 DISH_MAP = {
     'otsumami-0': 'ポテトフライ 料理',
