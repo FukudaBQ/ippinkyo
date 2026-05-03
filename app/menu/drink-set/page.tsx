@@ -59,7 +59,7 @@ function parseSections(blocks: Block[]): { priceLines: string[]; named: NamedSec
     if (block.kind === 'text') {
       for (const line of block.lines) {
         const m = line.match(/^(.+?)选择[:：]\s*(.*)$/);
-        if (m) {
+        if (m && m[1] !== undefined) {
           flushPending();
           pending = { heading: m[1].trim(), freeText: [] };
           if (m[2]) pending.freeText.push(m[2].trim());

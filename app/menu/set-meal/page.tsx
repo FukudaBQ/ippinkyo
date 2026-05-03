@@ -1,5 +1,5 @@
 import { getCategoryById } from '@/lib/categories';
-import { loadCategoryData } from '@/lib/dishes';
+import { dishImagePath, loadCategoryData } from '@/lib/dishes';
 import { MenuShell } from '@/components/MenuShell';
 import { BuffetHero } from '@/components/BuffetHero';
 import { DishCard } from '@/components/DishCard';
@@ -24,7 +24,12 @@ export default function SetMealPage() {
         </h3>
         <div className="grid grid-cols-2 sm:grid-cols-[repeat(auto-fill,minmax(160px,1fr))] gap-2.5 sm:gap-3.5">
           {dishes.map((d) => (
-            <DishCard key={d.index} category={category} dish={d} />
+            <DishCard
+              key={d.index}
+              category={category}
+              dish={d}
+              imagePath={dishImagePath(category, d)}
+            />
           ))}
         </div>
       </section>

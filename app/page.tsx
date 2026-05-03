@@ -1,127 +1,101 @@
-import Link from 'next/link';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
-import { asset } from '@/lib/paths';
+import { ReservationCTA } from '@/components/ReservationCTA';
+import { DeliveryCTA } from '@/components/DeliveryCTA';
+import { PaymentMethods } from '@/components/PaymentMethods';
+import { ParkingInfo } from '@/components/ParkingInfo';
+import { CouponBanner } from '@/components/CouponBanner';
+import { NewsCard } from '@/components/NewsCard';
+import { BackToTop } from '@/components/BackToTop';
+import { HomeHero, HomeAccessSection, NewsSectionHeader, SectionHeader } from '@/components/home/HomeSections';
+import { loadAllNews, type NewsItem } from '@/lib/news';
+import { SITE } from '@/lib/site';
 
 export default function HomePage() {
+  const news = loadAllNews().slice(0, 3);
+
   return (
     <>
-      <Header />
+      <Header transparent />
 
-      <section
-        className="relative min-h-[60vh] flex items-center justify-center overflow-hidden bg-ink"
-        style={{ padding: '120px 20px 60px' }}
-      >
-        <div
-          className="absolute inset-0 opacity-40 bg-cover bg-center"
-          style={{ backgroundImage: `url(${asset('/images/hero.jpg')})` }}
-          aria-hidden
-        />
-        <div className="relative text-center text-white max-w-[720px] w-full">
-          <h1 className="font-serif text-[36px] md:text-[52px] font-bold tracking-[0.15em] mb-3 [text-shadow:0_2px_20px_rgba(0,0,0,0.5)]">
-            逸品居
-          </h1>
-          <p className="text-[12px] md:text-[14px] font-light tracking-wide4 text-neutral-300 mb-2">高幡不動店</p>
-          <p className="text-[12px] md:text-[13px] text-neutral-400 mb-6 md:mb-8 leading-[1.8]">
-            旨辛本格中華 ｜ 麻婆豆腐 ｜ 四川料理
-          </p>
+      <main id="main">
+        <HomeHero />
 
-          <div className="grid grid-cols-2 gap-3 max-w-[420px] mx-auto md:gap-3">
-            <QuickButton href="/menu/" icon="🍜" label="メニュー" sub="MENU" />
-            <QuickButton href="tel:0428424097" icon="☎" label="ご予約" sub="RESERVE" />
+        {/* お知らせ・新着 */}
+        <section id="news" className="mx-auto max-w-page px-5 py-14 sm:py-16">
+          <NewsSectionHeader />
+          <NewsList news={news} />
+        </section>
+
+        {/* 予約 */}
+        <section id="reservation" className="bg-paper">
+          <div className="mx-auto max-w-page px-5 py-14 sm:py-16">
+            <SectionHeader heading="reserveHeading" sub="reserveSub" />
+            <ReservationCTA className="mt-7" />
           </div>
-        </div>
-      </section>
+        </section>
 
-      <section id="access" className="py-[60px] px-5 md:py-[60px] md:px-5">
-        <div className="max-w-section mx-auto">
-          <h2 className="font-serif text-[22px] md:text-[26px] font-bold text-center mb-2 text-neutral-800 tracking-wide2">
-            店舗情報
-          </h2>
-          <p className="text-center text-[12px] text-neutral-400 tracking-wide4 mb-10">SHOP INFO &amp; ACCESS</p>
+        {/* テイクアウト・デリバリー */}
+        <section id="delivery" className="mx-auto max-w-page px-5 py-14 sm:py-16">
+          <SectionHeader heading="deliveryHeading" sub="deliverySub" />
+          <DeliveryCTA className="mt-7" />
+        </section>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10 items-start">
-            <div>
-              <table className="w-full">
-                <tbody>
-                  <InfoRow th="店名" td="逸品居 高幡不動店" />
-                  <InfoRow th="住所" td={<>〒191-0031<br />東京都日野市高幡2-16 1F</>} />
-                  <InfoRow
-                    th="電話"
-                    td={
-                      <a href="tel:0428424097" className="text-brand no-underline">
-                        042-842-4097
-                      </a>
-                    }
-                  />
-                  <InfoRow
-                    th="営業時間"
-                    td={
-                      <>
-                        11:00～15:00（L.O. 14:30）<br />
-                        17:00～23:00（L.O. 22:30）
-                      </>
-                    }
-                  />
-                  <InfoRow th="定休日" td="火曜日" />
-                </tbody>
-              </table>
-              <a
-                href="tel:0428424097"
-                className="inline-block bg-brand text-white px-8 py-3.5 rounded-md font-bold tracking-[0.05em] mt-5 hover:bg-brand-light transition-colors"
-              >
-                ☎ 042-842-4097
-              </a>
-            </div>
-            <div className="rounded-lg overflow-hidden h-[260px] md:h-[320px] bg-neutral-100">
-              <iframe
-                title="店舗地図"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.5!2d139.4089608!3d35.6624532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e31ad727c3ef%3A0x58ca50a24b15f738!2sIppinkyo+-+Takahatafudo+Store!5e0!3m2!1sja!2sjp!4v1"
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                className="w-full h-full border-0"
-              />
-            </div>
+        {/* クーポン */}
+        <section id="coupon" className="bg-paper">
+          <div className="mx-auto max-w-section px-5 py-14 sm:py-16">
+            <CouponBanner />
           </div>
-        </div>
-      </section>
+        </section>
+
+        {/* 支払い方法 */}
+        <section id="payments" className="mx-auto max-w-page px-5 py-12">
+          <SectionHeader heading="paymentHeading" />
+          <PaymentMethods className="mt-5" />
+        </section>
+
+        {/* 駐車場 */}
+        <section id="parking" className="bg-paper">
+          <div className="mx-auto max-w-page px-5 py-14 sm:py-16">
+            <SectionHeader heading="parkingHeading" sub="parkingSub" />
+            <ParkingInfo className="mt-7" limit={3} showMoreLink />
+          </div>
+        </section>
+
+        {/* アクセス */}
+        <HomeAccessSection />
+      </main>
 
       <Footer />
+      <BackToTop />
+
+      {/* Floating phone CTA on mobile so the call action is always one tap away. */}
+      <a
+        href={SITE.tel.href}
+        aria-label="電話で予約"
+        className="fixed bottom-5 left-5 z-40 flex h-12 w-12 items-center justify-center rounded-full bg-brand text-white shadow-lg shadow-brand/30 hover:bg-brand-light md:hidden"
+      >
+        <span aria-hidden className="text-[20px]">☎</span>
+      </a>
     </>
   );
 }
 
-function QuickButton({ href, icon, label, sub }: { href: string; icon: string; label: string; sub: string }) {
-  const content = (
-    <>
-      <div className="text-[20px] md:text-[24px] mb-1.5">{icon}</div>
-      <div className="text-[12px] md:text-[14px] font-bold tracking-[0.08em]">{label}</div>
-      <div className="hidden md:block text-[10px] text-neutral-300 tracking-wide3 mt-0.5">{sub}</div>
-    </>
-  );
-  const className =
-    'flex flex-col items-center justify-center bg-white/10 border border-white/30 text-white px-3 py-3.5 md:px-3 md:py-[18px] rounded-lg backdrop-blur-sm hover:bg-brand hover:border-brand hover:-translate-y-0.5 transition-all duration-200';
-
-  if (href.startsWith('tel:') || href.startsWith('mailto:')) {
+function NewsList({ news }: { news: NewsItem[] }) {
+  if (news.length === 0) {
     return (
-      <a href={href} className={className}>
-        {content}
-      </a>
+      <p className="mt-7 rounded-lg border border-dashed border-neutral-300 bg-white px-5 py-10 text-center text-[13px] text-neutral-500">
+        現在お知らせはありません。
+      </p>
     );
   }
   return (
-    <Link href={href} className={className}>
-      {content}
-    </Link>
-  );
-}
-
-function InfoRow({ th, td }: { th: string; td: React.ReactNode }) {
-  return (
-    <tr className="border-b border-neutral-200">
-      <th className="text-left py-3.5 font-bold text-[14px] text-neutral-800 w-[100px] align-top">{th}</th>
-      <td className="py-3.5 text-[14px] text-neutral-600 leading-[1.7]">{td}</td>
-    </tr>
+    <ul className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-3">
+      {news.map((n) => (
+        <li key={n.slug}>
+          <NewsCard item={n} compact />
+        </li>
+      ))}
+    </ul>
   );
 }

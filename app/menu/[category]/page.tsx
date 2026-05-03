@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { MENU_CATEGORIES, getCategoryById } from '@/lib/categories';
-import { loadCategoryData } from '@/lib/dishes';
+import { dishImagePath, loadCategoryData } from '@/lib/dishes';
 import { MenuShell } from '@/components/MenuShell';
 import { DishCard } from '@/components/DishCard';
 
@@ -49,7 +49,12 @@ export default async function CategoryPage({ params }: PageProps) {
       {dishes.length > 0 ? (
         <div className="grid grid-cols-2 sm:grid-cols-[repeat(auto-fill,minmax(160px,1fr))] gap-2.5 sm:gap-3.5">
           {dishes.map((d) => (
-            <DishCard key={`${category.id}-${d.index}`} category={category} dish={d} />
+            <DishCard
+              key={`${category.id}-${d.index}`}
+              category={category}
+              dish={d}
+              imagePath={dishImagePath(category, d)}
+            />
           ))}
         </div>
       ) : (

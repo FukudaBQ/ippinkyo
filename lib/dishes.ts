@@ -22,7 +22,7 @@ const SEPARATOR_RE = /^\s*\|?\s*[:\-]+/;
  */
 function splitName(raw: string): { nameJa: string; nameCn?: string } {
   const m = raw.match(/^(.*?)[（(](.+?)[)）]\s*$/);
-  if (m) {
+  if (m && m[1] !== undefined && m[2] !== undefined) {
     return { nameJa: m[1].trim(), nameCn: m[2].trim() };
   }
   return { nameJa: raw.trim() };
