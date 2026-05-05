@@ -10,13 +10,17 @@ interface StatusBadgeProps {
 }
 
 /**
- * Live "営業中 / 営業時間外" pill. We compute status with the user's local
- * clock client-side; SSR shows the value at build time which is acceptable
- * because the pill mounts very fast.
+ * Live "営業中 / 営業時間外" pill.
+ *
+ * The status depends on the current wall-clock time, which differs between
+ * the build server and the visitor's browser. Computing it during SSR would
+ * cause a hydration mismatch around opening / closing transitions, so we
+ * render a neutral skeleton on the first paint and only fill it in after
+ * mount.
  */
 export function StatusBadge({ className = '' }: StatusBadgeProps) {
   const { t } = useLocale();
-  const [status, setStatus] = useState<OpenStatus>(() => getOpenStatus());
+  const [status, setStatus] = useState<OpenStatus | null>(null);
 
   useEffect(() => {
     const tick = () => setStatus(getOpenStatus());
@@ -24,6 +28,18 @@ export function StatusBadge({ className = '' }: StatusBadgeProps) {
     const id = window.setInterval(tick, 60_000);
     return () => window.clearInterval(id);
   }, []);
+
+  if (!status) {
+    return (
+      <span
+        className={`inline-flex items-center gap-1.5 rounded-full bg-neutral-700/40 px-2.5 py-1 text-[11px] font-medium text-neutral-200 backdrop-blur ${className}`}
+        aria-hidden
+      >
+        <span className="h-2 w-2 rounded-full bg-neutral-400" />
+        <span className="opacity-70">…</span>
+      </span>
+    );
+  }
 
   const isOpen = status.state === 'open';
   const dotColor = isOpen ? 'bg-emerald-400' : 'bg-neutral-400';

@@ -7,6 +7,7 @@ export const CATEGORIES: Category[] = [
   { id: 'vegetable',         name: '一品料理 野菜',      color: '#2E7D32', icon: '🥬', group: 'menu',   fileName: '一品料理 野菜' },
   { id: 'rice',              name: 'ご飯類',             color: '#E65100', icon: '🍚', group: 'menu',   fileName: 'ご飯類' },
   { id: 'noodle',            name: '麺類',               color: '#F9A825', icon: '🍜', group: 'menu',   fileName: ' 麺類' },
+  { id: 'soup-porridge',     name: 'スープ・お粥',         color: '#5D4037', icon: '🥣', group: 'menu',   fileName: 'スープ・お粥' },
   { id: 'authentic-chinese', name: '本格中華料理',       color: '#AD1457', icon: '🇨🇳', group: 'menu',   fileName: '本格中華料理' },
   { id: 'authentic-sichuan', name: '本格四川料理',       color: '#B71C1C', icon: '🌶️', group: 'menu',   fileName: '本格四川料理' },
   { id: 'claypot',           name: '土鍋料理',           color: '#4E342E', icon: '🍲', group: 'menu',   fileName: '土鍋料理' },
