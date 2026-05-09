@@ -42,7 +42,7 @@
 
 > Japanese-Chinese restaurant dish 海鮮おこげ — Chinese seafood with crispy rice — golden puffed crispy rice cakes (guoba) topped with a steaming saucy mixture of shrimp, squid, scallop, snow peas, and bamboo shoots in a glossy savory sauce, served in a deep round white bowl with steam rising, shot on a warm-toned wooden plank tabletop with visible natural wood grain, clean uncluttered background, no other plates or decor in frame, professional food photography, 45-degree angle, shallow depth of field, photorealistic, appetizing, no text, 1:1.
 
-## seafood-7 — 五目おこげ (Mixed crispy rice, 什锦锅巴)
+## seafood-7 — 五目おこげ (Mixed crispy rice, 什锦锅巴) ✅
 
 **Image path**: `public/images/dishes/seafood-7.jpg`
 
