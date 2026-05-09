@@ -30,13 +30,13 @@
 
 > Japanese-Chinese restaurant dish 牛肉の鉄板焼き — Sliced tender beef sizzling on a hot black cast-iron teppan plate, glazed in glossy black-pepper soy sauce with sliced onions, green and red bell peppers, sprinkled with cumin seeds and toasted sesame, garnished with chopped scallions, steam rising, shot on a warm-toned wooden plank tabletop with visible natural wood grain, clean uncluttered background, no other plates or decor in frame, professional food photography, 45-degree angle, shallow depth of field, photorealistic, appetizing, no text, 1:1.
 
-## drypot-teppan-5 — ラム肉の鉄板焼き (Lamb teppanyaki, cumin / scallion, クミン味・長ネギ炒め)
+## drypot-teppan-5 — ラム肉の鉄板焼き (Lamb teppanyaki, cumin / scallion, クミン味・長ネギ炒め) ✅
 
 **Image path**: `public/images/dishes/drypot-teppan-5.jpg`
 
 > Japanese-Chinese restaurant dish ラム肉の鉄板焼き — Slices of tender lamb sizzling on a hot black cast-iron teppan plate with whole cumin seeds, sliced onion, plenty of long Chinese green onion, dried red chili, garnished with chopped cilantro and toasted sesame, steam rising, shot on a warm-toned wooden plank tabletop with visible natural wood grain, clean uncluttered background, no other plates or decor in frame, professional food photography, 45-degree angle, shallow depth of field, photorealistic, appetizing, no text, 1:1.
 
-## drypot-teppan-6 — イカゲソの鉄板焼き (Squid tentacles teppan, 铁板鱿鱼须)
+## drypot-teppan-6 — イカゲソの鉄板焼き (Squid tentacles teppan, 铁板鱿鱼须) ✅
 
 **Image path**: `public/images/dishes/drypot-teppan-6.jpg`
 
